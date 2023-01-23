@@ -16,8 +16,6 @@ Powered by [`google-speech`](https://pypi.org/project/google-speech/), [`acheong
 
 [YouTube Link](https://youtu.be/0Rs7h4ePgmw)
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0Rs7h4ePgmw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ## Issues
 
 There are many sources of latency, mainly the ChatGPT "API" and the AssemblyAI real-time transcription API. This leads to some long waiting times, but it works.
